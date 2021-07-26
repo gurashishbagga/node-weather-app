@@ -1,0 +1,22 @@
+
+header{
+    margin-bottom: 25px;
+}
+
+
+footer{
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: 200px;
+}
+
+#footline{
+        display: block;
+        margin-top:100px;
+        width:40%;
+        margin-right: 80px;
+        border-style: inset;
+        border-width: 1px;
+        border-color: #F0F0F0;   
+}
